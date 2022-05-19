@@ -1,3 +1,7 @@
+# Process
 
-
-![image](https://user-images.githubusercontent.com/79685898/169392265-aed100ef-1197-4e48-b56b-d47735cd0bf5.png)
+1.Discovery <br/>
+2.Exploratory Data Analysis <br/>
+3.Data Preprocessing <br/>
+4.Model Building <br/>
+5.Communicate Results <br/>
